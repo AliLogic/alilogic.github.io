@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to AliLogic's page
+
+_THIS IS A WORK IN PROGRESS PAGE!! PLEASE CHECK BACK LATER_
 
 You can use the [editor on GitHub](https://github.com/AliLogic/alilogic.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
